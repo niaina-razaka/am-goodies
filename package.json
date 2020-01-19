@@ -1,0 +1,24 @@
+{
+  "name": "goodies",
+  "version": "0.0.1",
+  "description": "Mean stack Goodies Website, shop",
+  "main": "app.js",
+  "dependencies": {
+    "pg": "^7.17.1",
+    "mongoose": "*",
+    "express": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Niaina RAZAKA",
+  "license": "ISC"
+}
